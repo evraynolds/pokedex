@@ -1,7 +1,7 @@
 # Pokedex
 run npm run install && npm run start
 View a paginated list of pokemon, or search by entire name to view more details
-
+FYI: I used node v14.19.0! Install this or similar if installation fails.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
